@@ -1,41 +1,51 @@
-html {
+body {
+    font-family: Arial, sans-serif;
     font-size: 0.75em;
+    background-color: #a5c2e8;
+    margin: 0;
+    padding: 0;
 }
 
 /* CSS for bootstrap theme */
-.container {
+.misiv-container {
     width: 400px;
     background-color: #f7fafc;
     border: 1px solid #444;
     padding: 5px;
-    margin: auto;
-    font-family: Arial, sans-serif;
+    margin: 100px auto 0;
 }
 
-.form {
-    display: table;
+.misiv-form {
     margin: auto;
+    padding: 1em 0;
 }
 
-.logo {
-    display: table-caption;
+.misiv-logo {
+    text-align: center;
+}
+
+.misiv-echo {
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 2em;
 }
 
 .misiv-input-group {
-    display: table-row;
     line-height: 2;
 }
 
-.misiv-input-label, .misiv-input-element {
-    display: table-cell;
+.misiv-input-element {
+    display: inline-block;
 }
 
 .misiv-input-label {
     padding-right: 10px;
     text-align: right;
+    display: inline-block;
+    width: 40%;
 }
 
-.form button[type="submit"] {
+.misiv-button[type="submit"] {
     border: 1px solid #aed0ea;
     background: #d7ebf9 url(http://test.misiv.intra.misiv.fr/css/tms/images/ui-bg_glass_80_d7ebf9_1x400.png) 50% 50% repeat-x;
     font-weight: bold;
@@ -43,4 +53,6 @@ html {
     border-radius: 2px;
 
     padding: .4em 1em;
+    display: block;
+    margin: 2em auto 0;
 }
