@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6729ae7d-8322-48ca-995a-c9689e3aeca4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/theme/standardform.tpl" afterPath="$PROJECT_DIR$/theme/standardform.tpl" />
-    </list>
+    <list default="true" id="6729ae7d-8322-48ca-995a-c9689e3aeca4" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -195,12 +193,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1506430487663</updated>
-      <workItem from="1506430488924" duration="20604000" />
+      <workItem from="1506430488924" duration="21129000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20604000" />
+    <option name="totallyTimeSpent" value="21129000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="7" />
