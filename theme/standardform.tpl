@@ -1,5 +1,5 @@
 <div class="misiv-form">
-    <div class="misiv-logo"><img src="http://test.misiv.intra.misiv.fr/css/images/logo_misiv.png"></div>
+    <div class="misiv-logo"><img src="<TMPL_VAR NAME="SKIN_PATH">/<TMPL_VAR NAME="SKIN">/images/logo_misiv.png"></div>
 
     <div class="misiv-echo">
         <TMPL_IF NAME="AUTH_ERROR">
